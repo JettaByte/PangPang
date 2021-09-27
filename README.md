@@ -1,3 +1,5 @@
+#Server PangPang
+
 <!-- Variables -->
 [home]: https://airplane.gg
 [blog]: https://blog.airplane.gg
